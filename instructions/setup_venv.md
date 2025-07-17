@@ -15,11 +15,13 @@ Once you are in your project's directory, you can create a virtual environment. 
 
 *   **On macOS and Linux, run:** 
     ```bash
+    py -m venv venv
     python3 -m venv venv 
     ``` 
 
 *   **On Windows, run:** 
     ```bash
+     py -m venv venv
     python -m venv venv
     ``` 
 
