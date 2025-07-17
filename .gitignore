@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-arg.txt
+.tox/
+.coverage
+.cache/
+.pytest_cache/
+htmlcov/
+.nox/
+.mypy_cache/
+.dmypy.json
+.vscode/
+.env
+
+# Distribution / packaging
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.whl
+*.mo
+*.pot
+*.log
+lib/
+lib64/
+include/
+bin/
+share/
+/local/
+
+# Editors and IDEs
+# VSCode
+.vscode/
+# PyCharm / IntelliJ
+.idea/
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# Atom
+.atom/
+# Vim
+*.swp
+*.swo
+# Emacs
+*~
+# Other
+.#*
+
+# OS generated files
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# CrewAI specific (if any specific output/temp files are generated and should not be tracked)
+# For example, if CrewAI creates specific output directories:
+# crewai_output/
+# research_results/
+# temp_data/
+
+# Example for specific sensitive data or large files that should not be committed
+# *.sqlite3
+# /data/
+# private_keys/
+
